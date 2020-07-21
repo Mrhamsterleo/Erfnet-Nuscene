@@ -1,0 +1,12 @@
+/samples/bv_373.png /annotations_uint/label_373.png
+/samples/bv_374.png /annotations_uint/label_374.png
+/samples/bv_375.png /annotations_uint/label_375.png
+/samples/bv_376.png /annotations_uint/label_376.png
+/samples/bv_377.png /annotations_uint/label_377.png
+/samples/bv_378.png /annotations_uint/label_378.png
+/samples/bv_379.png /annotations_uint/label_379.png
+/samples/bv_38.png /annotations_uint/label_38.png
+/samples/bv_380.png /annotations_uint/label_380.png
+/samples/bv_381.png /annotations_uint/label_381.png
+/samples/bv_382.png /annotations_uint/label_382.png
+/samples/bv_383.png /annotations_uint/label_383.png
